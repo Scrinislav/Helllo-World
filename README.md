@@ -10,9 +10,9 @@ public class Test {
 		
 		int alter=27;
 		
-		boolean programieren=true;
+		boolean programieren=false;
 		
-System.out.println("Moin Welst mein Name Ist "+ name +" und ich bin "+alter+" Jahre alt.");
+System.out.println("Moin Welt mein Name Ist "+ name +" und ich bin "+alter+" Jahre alt.");
 if (programieren == true) {
 	System.out.println("Ich kann programmieren.");}
 else if (programieren == false) {
